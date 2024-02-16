@@ -2,13 +2,13 @@
 
 **Overview**
 
-**This project is a responsive frontend for the EaseHome website, which resembles a real estate platform. It provides users with a seamless experience to explore properties, search for listings, and interact with various features. The project is built using HTML, CSS, and JavaScript.
-**
+This project is a responsive frontend for the EaseHome website, which resembles a real estate platform. It provides users with a seamless experience to explore properties, search for listings, and interact with various features. The project is built using HTML, CSS, and JavaScript.
+
 
 **Features**
 
  **1. Sections**
- **   The website consists of the following main sections:**
+       The website consists of the following main sections:
 
 **Home:** The landing page where users can find an overview of EaseHome’s services.
 **Services:** Details about the services offered by EaseHome, such as property acquisition, rental accommodation, and residence sales.
